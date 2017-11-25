@@ -1,0 +1,66 @@
+<!doctype html>
+<html ng-app="myApp">
+<head>
+<meta charset="utf-8">
+<title>Today's Special</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" />
+<script src="angular.js"></script>
+<script src="app.js"></script>
+<style type="text/css">
+body{
+	background:#CCC;
+}
+.daySpecial{
+	margin:30px 0;
+	background:#FFF;
+	margin-bottom:15px;
+	text-transform:uppercase;
+	border:#DDD 1px solid;
+	font-weight:bold;
+}
+.daySpecial > div{
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.daySpecial .col-lg-2{
+	background:#36F;
+	color:#FFF;
+}
+.daySpecial span{
+	text-transform:none;
+	border-right:#222 1px solid;
+	padding:0 10px;
+	font-weight:normal;
+}
+.daySpecial span + .emptymsg {
+  display: none;
+  font-weight:normal;
+}
+.daySpecial span:first-child{
+	padding-left:0;
+}
+.daySpecial span:nth-last-child(2){
+	border-right:none;
+	padding-right:0;
+}
+</style>
+</head>
+
+<body ng-controller="mainctrl">
+
+			<div class="container">
+				<div class="daySpecial clearfix">
+                        	<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
+                            	Today's Special
+                            </div>
+                            <div class="col-lg-10 col-md-9 col-sm-8 col-xs-12">
+                            	<span ng-repeat="d in daysList | filter:{Day:today} ">{{d.Name}}</span>
+                                <div class="emptymsg">Sorry!! No such event found</div>
+                            </div>
+				</div>
+            </div>    
+    
+
+</body>
+</html>

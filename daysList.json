@@ -1,0 +1,954 @@
+[
+ {
+   "Day": "January 1",
+   "Name": "New Year's Day"
+ },
+ {
+   "Day": "January 11",
+   "Name": "International Parity at Work Day"
+ },
+ {
+   "Day": "January 18",
+   "Name": "International Religion Day"
+ },
+ {
+   "Day": "January 23",
+   "Name": "International Freedom Day"
+ },
+ {
+   "Day": "January 26",
+   "Name": "International Fisherman Day"
+ },
+ {
+   "Day": "January 26",
+   "Name": "International Environmental Education Day"
+ },
+ {
+   "Day": "January 26",
+   "Name": "International Customs Day"
+ },
+ {
+   "Day": "January 27",
+   "Name": "International Holocaust Remembrance Day"
+ },
+ {
+   "Day": "January 27",
+   "Name": "International Outer Space Day"
+ },
+ {
+   "Day": "January 28",
+   "Name": "International Reducing CO2 Emissions Day"
+ },
+ {
+   "Day": "January 29",
+   "Name": "International Day of the Hudepohl"
+ },
+ {
+   "Day": "January 30",
+   "Name": "International day of Nonviolence and Peace Day"
+ },
+ {
+   "Day": "January 31",
+   "Name": "Street Children's Day"
+ },
+ {
+   "Day": "February 2",
+   "Name": "World Wetlands Day"
+ },
+ {
+   "Day": "February 4",
+   "Name": "World Cancer Day"
+ },
+ {
+   "Day": "February 6",
+   "Name": "International Day of Zero Tolerance to Female Genital Mutilation"
+ },
+ {
+   "Day": "February 11",
+   "Name": "World Day of the Sick"
+ },
+ {
+   "Day": "February 13",
+   "Name": "World Radio Day"
+ },
+ {
+   "Day": "February 14",
+   "Name": "World Valentine Day"
+ },
+ {
+   "Day": "February 15",
+   "Name": "World Cholangiocarcinoma Day"
+ },
+ {
+   "Day": "February 20",
+   "Name": "World Day of Social Justice"
+ },
+ {
+   "Day": "February 21",
+   "Name": "International Mother Language Day"
+ },
+ {
+   "Day": "February 22",
+   "Name": "A Day Without News"
+ },
+ {
+   "Day": "February 24",
+   "Name": "Defend the Donut Day"
+ },
+ {
+   "Day": "February 27",
+   "Name": "World NGO Day"
+ },
+ {
+   "Day": "March 1",
+   "Name": "World Civil Defence Day"
+ },
+ {
+   "Day": "March 3",
+   "Name": "World Wildlife Day"
+ },
+ {
+   "Day": "March 8",
+   "Name": "International Women's Day"
+ },
+ {
+   "Day": "March 12",
+   "Name": "World Glaucoma Day"
+ },
+ {
+   "Day": "March 15",
+   "Name": "World Consumer Rights Day World Contact Day"
+ },
+ {
+   "Day": "March 20",
+   "Name": "World Oral Health Day"
+ },
+ {
+   "Day": "March 20",
+   "Name": "International Day of Francophonie"
+ },
+ {
+   "Day": "March 20",
+   "Name": "International Day of Happiness"
+ },
+ {
+   "Day": "March 20",
+   "Name": "World Sparrow Day"
+ },
+ {
+   "Day": "March 21",
+   "Name": "International Day for the Elimination of Racial Discrimination"
+ },
+ {
+   "Day": "March 21",
+   "Name": "World Poetry Day"
+ },
+ {
+   "Day": "March 21",
+   "Name": "International Day of Nowruz"
+ },
+ {
+   "Day": "March 21",
+   "Name": "World Down Syndrome Day"
+ },
+ {
+   "Day": "March 21",
+   "Name": "World Puppetry Day"
+ },
+ {
+   "Day": "March 21",
+   "Name": "International Day of Forests"
+ },
+ {
+   "Day": "March 22",
+   "Name": "World Water Day"
+ },
+ {
+   "Day": "March 23",
+   "Name": "World Meteorological Day"
+ },
+ {
+   "Day": "March 24",
+   "Name": "World Tuberculosis Day"
+ },
+ {
+   "Day": "March 25",
+   "Name": "International Day of Remembrance of the Victims of Slavery and the Transatlantic Slave Trade"
+ },
+ {
+   "Day": "March 25",
+   "Name": "Observance of National Genocide Day"
+ },
+ {
+   "Day": "March 26",
+   "Name": "Bangladesh Independence Day"
+ },
+ {
+   "Day": "March 27",
+   "Name": "International launch of Global Money Week world atmosphere Day"
+ },
+ {
+   "Day": "March 27",
+   "Name": "World Theatre Day"
+ },
+ {
+   "Day": "April 1",
+   "Name": "World April Fools' Day"
+ },
+ {
+   "Day": "April 2",
+   "Name": "World Autism Awareness Day"
+ },
+ {
+   "Day": "April 2",
+   "Name": "International Children's Book Day"
+ },
+ {
+   "Day": "April 7",
+   "Name": "Day of Remembrance of the Victims of the Rwanda Genocide"
+ },
+ {
+   "Day": "April 7",
+   "Name": "World Health Day"
+ },
+ {
+   "Day": "April 8",
+   "Name": "International Romani Day"
+ },
+ {
+   "Day": "April 17",
+   "Name": "World Hemophilia Day"
+ },
+ {
+   "Day": "April 18",
+   "Name": "International Day For Monuments and Sites"
+ },
+ {
+   "Day": "April 20",
+   "Name": "420: international day for cannabis-related protests and events"
+ },
+ {
+   "Day": "April 22",
+   "Name": "International Mother Earth Day"
+ },
+ {
+   "Day": "April 23",
+   "Name": "World Book and Copyright Day"
+ },
+ {
+   "Day": "April 23",
+   "Name": "English Language Day"
+ },
+ {
+   "Day": "April 24",
+   "Name": "World Day for Laboratory Animals"
+ },
+ {
+   "Day": "April 25",
+   "Name": "World Malaria Day"
+ },
+ {
+   "Day": "April 26",
+   "Name": "World Intellectual Property Day"
+ },
+ {
+   "Day": "April 28",
+   "Name": "World Day for Safety and Health at Work"
+ },
+ {
+   "Day": "April 29",
+   "Name": "Day of Remembrance for all Victims of Chemical Warfare"
+ },
+ {
+   "Day": "April 29",
+   "Name": "International Dance Day"
+ },
+ {
+   "Day": "April 29",
+   "Name": "International Bee Day"
+ },
+ {
+   "Day": "April 30",
+   "Name": "International Jazz Day"
+ },
+ {
+   "Day": "May 1",
+   "Name": "May Day, International Workers' Day"
+ },
+ {
+   "Day": "May 3",
+   "Name": "World Press Freedom Day"
+ },
+ {
+   "Day": "May 4",
+   "Name": "International Firefighters' Day, Star Wars Day"
+ },
+ {
+   "Day": "May 5",
+   "Name": "International Midwives Day"
+ },
+ {
+   "Day": "May 8",
+   "Name": "World Red Cross and Red Crescent Day"
+ },
+ {
+   "Day": "May 8–9",
+   "Name": "Time of Remembrance and Reconciliation for Those Who Lost Their Lives during the Second World War"
+ },
+ {
+   "Day": "May 9",
+   "Name": "Europe Day"
+ },
+ {
+   "Day": "May 10",
+   "Name": "International Migratory Bird Day"
+ },
+ {
+   "Day": "May 12",
+   "Name": "International Nurses Day"
+ },
+ {
+   "Day": "May 15",
+   "Name": "International Day of Families"
+ },
+ {
+   "Day": "May 17",
+   "Name": "World Telecommunication and Information Society Day"
+ },
+ {
+   "Day": "May 17",
+   "Name": "International Day Against Homophobia and Transphobia"
+ },
+ {
+   "Day": "May 18",
+   "Name": "World AIDS Vaccine Day"
+ },
+ {
+   "Day": "May 18",
+   "Name": "International AIDS Candlelight Memorial"
+ },
+ {
+   "Day": "May 18",
+   "Name": "International Museum Day"
+ },
+ {
+   "Day": "May 21",
+   "Name": "World Day for Cultural Diversity for Dialogue and Development"
+ },
+ {
+   "Day": "May 22",
+   "Name": "International Day for Biological Diversity"
+ },
+ {
+   "Day": "May 25",
+   "Name": "Geek Pride Day, Towel Day"
+ },
+ {
+   "Day": "May 29",
+   "Name": "International Day of UN Peacekeepers"
+ },
+ {
+   "Day": "May 31",
+   "Name": "World No-Tobacco Day"
+ },
+ {
+   "Day": "1st Tue in May",
+   "Name": "World Asthma Day"
+ },
+ {
+   "Day": "1st Sunday in May",
+   "Name": "World Laughter Day"
+ },
+ {
+   "Day": "2nd Sat in May",
+   "Name": "World Fair Trade Day"
+ },
+ {
+   "Day": "2nd Sun in May",
+   "Name": "Mother's Day"
+ },
+ {
+   "Day": "Full moon in May",
+   "Name": "Vesak"
+ },
+ {
+   "Day": "A weekend in May",
+   "Name": "World Migratory Bird Day"
+ },
+ {
+   "Day": "June 1",
+   "Name": "Global Day of Parents"
+ },
+ {
+   "Day": "June 1",
+   "Name": "International Children's Day"
+ },
+ {
+   "Day": "June 1",
+   "Name": "World Milk Day"
+ },
+ {
+   "Day": "June 4",
+   "Name": "International Day of Innocent Children Victims of Aggression"
+ },
+ {
+   "Day": "June 5",
+   "Name": "World Environment Day"
+ },
+ {
+   "Day": "June 6",
+   "Name": "World Pest Day"
+ },
+ {
+   "Day": "June 8",
+   "Name": "World Oceans Day"
+ },
+ {
+   "Day": "June 12",
+   "Name": "International Shia Day"
+ },
+ {
+   "Day": "June 12",
+   "Name": "World Day Against Child Labour"
+ },
+ {
+   "Day": "June 14",
+   "Name": "World Blood Donor Day"
+ },
+ {
+   "Day": "June 15",
+   "Name": "Global Wind Day"
+ },
+ {
+   "Day": "June 15",
+   "Name": "World Elder Abuse Awareness Day"
+ },
+ {
+   "Day": "June 17",
+   "Name": "World Day to Combat Desertification and Drought"
+ },
+ {
+   "Day": "June 18",
+   "Name": "Autistic Pride Day"
+ },
+ {
+   "Day": "June 20",
+   "Name": "World Refugee Day"
+ },
+ {
+   "Day": "June 21",
+   "Name": "World Music Day, International Day of Yoga"
+ },
+ {
+   "Day": "June 23",
+   "Name": "World Whistleblowers Day"
+ },
+ {
+   "Day": "June 23",
+   "Name": "International Widow's Day"
+ },
+ {
+   "Day": "June 25",
+   "Name": "World Vitiligo Day"
+ },
+ {
+   "Day": "June 26",
+   "Name": "International Day against Drug Abuse and Illicit Trafficking"
+ },
+ {
+   "Day": "June 26",
+   "Name": "United Nations International Day in Support of Victims of Torture"
+ },
+ {
+   "Day": "June 30",
+   "Name": "United Nations International Asteroid Day raises public awareness of the asteroid impact hazard"
+ },
+ {
+   "Day": "3rd Sun in Jun",
+   "Name": "Fathers' Day in some countries"
+ },
+ {
+   "Day": "1st Saturday in July",
+   "Name": "International Day of Cooperatives"
+ },
+ {
+   "Day": "July 7",
+   "Name": "World Chocolate Day"
+ },
+ {
+   "Day": "July 11",
+   "Name": "World Population Day"
+ },
+ {
+   "Day": "July 12",
+   "Name": "Malala Day"
+ },
+ {
+   "Day": "July 15",
+   "Name": "World Youth Skills Day"
+ },
+ {
+   "Day": "July 17",
+   "Name": "World Day for International Justice"
+ },
+ {
+   "Day": "July 18",
+   "Name": "Nelson Mandela International Day"
+ },
+ {
+   "Day": "July 26",
+   "Name": "International Day for the Conservation of the Mangrove Ecosystem"
+ },
+ {
+   "Day": "July 28",
+   "Name": "World Hepatitis Day"
+ },
+ {
+   "Day": "July 29",
+   "Name": "International Tiger Day"
+ },
+ {
+   "Day": "July 30",
+   "Name": "International Day of Friendship"
+ },
+ {
+   "Day": "July 30",
+   "Name": "World Day against Trafficking in Persons"
+ },
+ {
+   "Day": "1st Friday in August",
+   "Name": "International Beer Day"
+ },
+ {
+   "Day": "August 4",
+   "Name": "Aboriginal Children's Day"
+ },
+ {
+   "Day": "August 8",
+   "Name": "World Cat Day"
+ },
+ {
+   "Day": "August 9",
+   "Name": "International Day of the World's Indigenous People"
+ },
+ {
+   "Day": "August 12",
+   "Name": "International Youth Day"
+ },
+ {
+   "Day": "August 13",
+   "Name": "International Lefthanders Day"
+ },
+ {
+   "Day": "August 14",
+   "Name": "Pakistan Independence Day"
+ },
+ {
+   "Day": "August 15",
+   "Name": "India Independence Day"
+ },
+ {
+   "Day": "August 17",
+   "Name": "Indonesia Independence Day"
+ },
+ {
+   "Day": "August 19",
+   "Name": "World Humanitarian Day"
+ },
+ {
+   "Day": "August 21",
+   "Name": "World Fashion Day"
+ },
+ {
+   "Day": "August 22",
+   "Name": "World Plant Milk Day"
+ },
+ {
+   "Day": "August 23",
+   "Name": "International Day for the Remembrance of the Slave Trade and its Abolition"
+ },
+ {
+   "Day": "August 29",
+   "Name": "International Day against Nuclear Tests"
+ },
+ {
+   "Day": "August 30",
+   "Name": "International Day of the Disappeared"
+ },
+ {
+   "Day": "September 5",
+   "Name": "International Day of Charity"
+ },
+ {
+   "Day": "September 8",
+   "Name": "International Literacy Day"
+ },
+ {
+   "Day": "September 10",
+   "Name": "World Suicide Prevention Day"
+ },
+ {
+   "Day": "September 15",
+   "Name": "International Day of Democracy"
+ },
+ {
+   "Day": "September 16",
+   "Name": "International Day for the Preservation of the Ozone Layer"
+ },
+ {
+   "Day": "September 18",
+   "Name": "World Water Monitoring Day"
+ },
+ {
+   "Day": "September 19",
+   "Name": "International Aortic Dissection Awareness Day"
+ },
+ {
+   "Day": "September 21",
+   "Name": "International Day of Peace"
+ },
+ {
+   "Day": "September 23",
+   "Name": "Celebrate Bisexuality Day"
+ },
+ {
+   "Day": "September 25",
+   "Name": "Celebrate World pharmacist Day"
+ },
+ {
+   "Day": "September 26",
+   "Name": "European Day of Languages"
+ },
+ {
+   "Day": "September 26",
+   "Name": "International Day for the Total Elimination of Nuclear Weapons"
+ },
+ {
+   "Day": "September 27",
+   "Name": "World Tourism Day"
+ },
+ {
+   "Day": "September 28",
+   "Name": "World Rabies Day"
+ },
+ {
+   "Day": "September 28",
+   "Name": "International Right to Know Day"
+ },
+ {
+   "Day": "September 28",
+   "Name": "International Safe Abortion Day"
+ },
+ {
+   "Day": "September 29",
+   "Name": "World Heart Day"
+ },
+ {
+   "Day": "September 29",
+   "Name": "International Coffee Day"
+ },
+ {
+   "Day": "September 30",
+   "Name": "Blasphemy Day"
+ },
+ {
+   "Day": "September 30",
+   "Name": "International Translation Day"
+ },
+ {
+   "Day": "October 1",
+   "Name": "International Day of Older Persons"
+ },
+ {
+   "Day": "October 1",
+   "Name": "World Vegetarian Day"
+ },
+ {
+   "Day": "October 2",
+   "Name": "International Day of Non-Violence"
+ },
+ {
+   "Day": "October 2",
+   "Name": "World Cerebral Palsy Day"
+ },
+ {
+   "Day": "October 5",
+   "Name": "World Teachers' Day"
+ },
+ {
+   "Day": "October 9",
+   "Name": "World Post Day"
+ },
+ {
+   "Day": "October 10",
+   "Name": "World Mental Health Day"
+ },
+ {
+   "Day": "October 10",
+   "Name": "European and World Day Against the Death Penalty"
+ },
+ {
+   "Day": "October 11",
+   "Name": "International Day of the Girl Child"
+ },
+ {
+   "Day": "October 11",
+   "Name": "World Obesity Day"
+ },
+ {
+   "Day": "October 13",
+   "Name": "World Thrombosis Day"
+ },
+ {
+   "Day": "October 13",
+   "Name": "International Day for Disaster Reduction"
+ },
+ {
+   "Day": "October 14",
+   "Name": "World Standards Day"
+ },
+ {
+   "Day": "October 15",
+   "Name": "Global Handwashing Day, World Students' Day"
+ },
+ {
+   "Day": "October 16",
+   "Name": "National Boss Day (Boss's Day), World Food Day"
+ },
+ {
+   "Day": "October 17",
+   "Name": "International Day for the Eradication of Poverty"
+ },
+ {
+   "Day": "October 18",
+   "Name": "World Vasectomy Day"
+ },
+ {
+   "Day": "October 20",
+   "Name": "World Osteoporosis Day"
+ },
+ {
+   "Day": "October 20",
+   "Name": "World Statistics Day"
+ },
+ {
+   "Day": "October 22",
+   "Name": "International Stuttering Awareness Day"
+ },
+ {
+   "Day": "October 24",
+   "Name": "United Nations Day"
+ },
+ {
+   "Day": "October 24",
+   "Name": "World Tripe Day"
+ },
+ {
+   "Day": "October 24",
+   "Name": "World Development Information Day"
+ },
+ {
+   "Day": "October 26",
+   "Name": "Intersex Awareness Day"
+ },
+ {
+   "Day": "October 27",
+   "Name": "World Day for Audiovisual Heritage"
+ },
+ {
+   "Day": "October 28",
+   "Name": "International Animation Day"
+ },
+ {
+   "Day": "October 29",
+   "Name": "World Stroke Day"
+ },
+ {
+   "Day": "1st Mon in Oct",
+   "Name": "World Habitat Day"
+ },
+ {
+   "Day": "day in 1st week in Oct",
+   "Name": "World Ballet Day"
+ },
+ {
+   "Day": "2nd Thu in Oct",
+   "Name": "World Sight Day"
+ },
+ {
+   "Day": "1st Fri in Oct",
+   "Name": "World Smile Day"
+ },
+ {
+   "Day": "2nd Sat in Oct",
+   "Name": "International Migratory Bird Day"
+ },
+ {
+   "Day": "November 1",
+   "Name": "World Vegan Day"
+ },
+ {
+   "Day": "November 2",
+   "Name": "International Day to End Impunity for Crimes Against Journalists"
+ },
+ {
+   "Day": "November 6",
+   "Name": "International Day for Preventing the Exploitation of the Environment in War and Armed Conflict"
+ },
+ {
+   "Day": "November 8",
+   "Name": "International Day of Radiology"
+ },
+ {
+   "Day": "November 10",
+   "Name": "World Science Day for Peace and Development"
+ },
+ {
+   "Day": "November 10",
+   "Name": "World Keratoconus Day"
+ },
+ {
+   "Day": "November 12",
+   "Name": "World Pneumonia Day"
+ },
+ {
+   "Day": "November 13",
+   "Name": "World Kindness Day"
+ },
+ {
+   "Day": "November 14",
+   "Name": "World Diabetes Day"
+ },
+ {
+   "Day": "November 14",
+   "Name": "Children's Day"
+ },
+ {
+   "Day": "November 15",
+   "Name": "Day of the Imprisoned Writer"
+ },
+ {
+   "Day": "November 15",
+   "Name": "World COPD Awareness Day"
+ },
+ {
+   "Day": "November 16",
+   "Name": "International Day for Tolerance"
+ },
+ {
+   "Day": "November 17",
+   "Name": "International Students Day"
+ },
+ {
+   "Day": "November 17",
+   "Name": "World Prematurity Day"
+ },
+ {
+   "Day": "November 17",
+   "Name": "International Candidate Attorney Day"
+ },
+ {
+   "Day": "November 19",
+   "Name": "International Journalist's Remembrance Day"
+ },
+ {
+   "Day": "November 19",
+   "Name": "World Toilet Day"
+ },
+ {
+   "Day": "November 20",
+   "Name": "Universal Children's Day"
+ },
+ {
+   "Day": "November 20",
+   "Name": "Transgender Day of Remembrance"
+ },
+ {
+   "Day": "November 20",
+   "Name": "Africa Industrialization Day"
+ },
+ {
+   "Day": "November 21",
+   "Name": "World Television Day"
+ },
+ {
+   "Day": "November 21",
+   "Name": "World Hello Day"
+ },
+ {
+   "Day": "November 25",
+   "Name": "International Day for the Elimination of Violence against Women"
+ },
+ {
+   "Day": "November 26",
+   "Name": "Anti Obesity Day"
+ },
+ {
+   "Day": "November 29",
+   "Name": "International Day of Solidarity with the Palestinian People"
+ },
+ {
+   "Day": "3rd Thu in Nov",
+   "Name": "World Philosophy Day"
+ },
+ {
+   "Day": "3rd Sun in Nov",
+   "Name": "World Day of Remembrance for Road Traffic Victims"
+ },
+ {
+   "Day": "December 1",
+   "Name": "World AIDS Day"
+ },
+ {
+   "Day": "December 2",
+   "Name": "International Day for the Abolition of Slavery"
+ },
+ {
+   "Day": "December 3",
+   "Name": "International Day of Persons with Disabilities"
+ },
+ {
+   "Day": "December 4",
+   "Name": "International Cheetah Day"
+ },
+ {
+   "Day": "December 5",
+   "Name": "World Soil Day"
+ },
+ {
+   "Day": "December 5",
+   "Name": "International Volunteer Day for Economic and Social Development"
+ },
+ {
+   "Day": "December 7",
+   "Name": "International Civil Aviation Day"
+ },
+ {
+   "Day": "December 9",
+   "Name": "International Anti-Corruption Day"
+ },
+ {
+   "Day": "December 10",
+   "Name": "Human Rights Day"
+ },
+ {
+   "Day": "December 11",
+   "Name": "International Mountain Day"
+ },
+ {
+   "Day": "December 16",
+   "Name": "Victory day of Bangladesh"
+ },
+ {
+   "Day": "December 18",
+   "Name": "International Migrants Day"
+ },
+ {
+   "Day": "December 20",
+   "Name": "International Human Solidarity Day"
+ },
+ {
+   "Day": "December 29",
+   "Name": "International Cello Day"
+ }
+]
